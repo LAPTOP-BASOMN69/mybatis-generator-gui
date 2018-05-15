@@ -9,4 +9,4 @@
 
 >程序打包：      mvn clean package #assembly:single
 
->程序运行：      java -jar xxxjar
+>程序运行：      java -jar xxx.jar
